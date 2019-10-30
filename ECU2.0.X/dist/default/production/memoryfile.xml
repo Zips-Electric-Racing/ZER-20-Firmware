@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/ECU2.0.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>592</used>
+      <free>15792</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>261696</length>
+      <used>10143</used>
+      <free>251553</free>
+    </memory>
+  </executable>
+</project>
